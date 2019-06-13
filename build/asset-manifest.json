@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3142821b.chunk.css",
+    "main.js": "/static/js/main.f4073e72.chunk.js",
+    "main.js.map": "/static/js/main.f4073e72.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.cf0d62a8.chunk.js": "/static/js/2.cf0d62a8.chunk.js",
+    "static/js/2.cf0d62a8.chunk.js.map": "/static/js/2.cf0d62a8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.18e6adbc8beba7859ba94f7ce52318f9.js": "/precache-manifest.18e6adbc8beba7859ba94f7ce52318f9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3142821b.chunk.css.map": "/static/css/main.3142821b.chunk.css.map",
+    "static/media/gunner.jpg": "/static/media/gunner.6d672972.jpg",
+    "static/media/josue.png": "/static/media/josue.b39ff1f1.png",
+    "static/media/swae.jpg": "/static/media/swae.513a1bc0.jpg",
+    "static/media/swaelee.jpg": "/static/media/swaelee.51851473.jpg"
+  }
+}
